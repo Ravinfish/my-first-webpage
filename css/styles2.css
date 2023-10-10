@@ -23,6 +23,7 @@ h1 {
   
   li {
     text-align: center;
+    text-transform: capitalize;
   }
   Body {
     background-color: violet;
