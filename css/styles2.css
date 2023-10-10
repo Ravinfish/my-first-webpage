@@ -1,0 +1,34 @@
+h1 {
+    color:magenta;
+    text-align: center;
+  }
+  
+  h2 {
+    font-style: italic;
+    text-align: center;
+    color:gold
+  }
+  
+  p {
+    font-family: sans-serif;
+  }
+  
+  ul {
+    font-size:' 20px%';
+    line-height:' 30px%';
+    color: blueviolet;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  li {
+    text-align: center;
+  }
+  Body {
+    background-color: violet;
+  }
+  img {
+    text-align: center;
+    height: 200px;
+    width: 300px;
+  }
